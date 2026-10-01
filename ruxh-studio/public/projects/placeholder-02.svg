@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" fill="none">
+  <rect width="1200" height="800" fill="#0C0C0C"/>
+  <line x1="80" y1="80" x2="1120" y2="80" stroke="#222" stroke-width="1"/>
+  <line x1="80" y1="720" x2="1120" y2="720" stroke="#222" stroke-width="1"/>
+  <line x1="80" y1="80" x2="80" y2="720" stroke="#222" stroke-width="1"/>
+  <line x1="1120" y1="80" x2="1120" y2="720" stroke="#222" stroke-width="1"/>
+
+  <text x="110" y="130" fill="#666" font-family="monospace" font-size="13" letter-spacing="3">RUXH ARCHIVE // 002</text>
+  <text x="1090" y="130" fill="#A3FF0A" font-family="monospace" font-size="13" letter-spacing="2" text-anchor="end">STATUS: IN PRODUCTION</text>
+
+  <!-- Large Minimalist Center Graphic -->
+  <g transform="translate(600, 400)">
+    <!-- Concentric geometric frame -->
+    <rect x="-240" y="-140" width="480" height="280" fill="#111" stroke="#282828" stroke-width="1"/>
+    <rect x="-220" y="-120" width="440" height="240" fill="#090909" stroke="#1F1F1F" stroke-width="1"/>
+    <!-- Diagonal wireframes -->
+    <line x1="-220" y1="-120" x2="220" y2="120" stroke="#1C1C1C" stroke-width="1"/>
+    <line x1="-220" y1="120" x2="220" y2="-120" stroke="#1C1C1C" stroke-width="1"/>
+    
+    <!-- Central Lime X -->
+    <path d="M-24 -24 L-10 -24 L0 -10 L10 -24 L24 -24 L10 0 L24 24 L10 24 L0 10 L-10 24 L-24 24 L-10 0 Z" fill="#A3FF0A"/>
+    
+    <text x="0" y="70" fill="#E2E2DC" font-family="sans-serif" font-weight="800" font-size="20" text-anchor="middle" letter-spacing="4">CASE STUDY COMING SOON</text>
+    <text x="0" y="95" fill="#666" font-family="monospace" font-size="11" text-anchor="middle" letter-spacing="2">ARCHIVE IN PREPARATION // 2026</text>
+  </g>
+</svg>

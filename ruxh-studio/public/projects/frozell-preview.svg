@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" fill="none">
+  <!-- Background -->
+  <rect width="1200" height="800" fill="#0E0E0E"/>
+  
+  <!-- Editorial Grid Lines -->
+  <line x1="80" y1="80" x2="1120" y2="80" stroke="#262626" stroke-width="1"/>
+  <line x1="80" y1="720" x2="1120" y2="720" stroke="#262626" stroke-width="1"/>
+  <line x1="80" y1="80" x2="80" y2="720" stroke="#262626" stroke-width="1"/>
+  <line x1="1120" y1="80" x2="1120" y2="720" stroke="#262626" stroke-width="1"/>
+  <line x1="600" y1="80" x2="600" y2="720" stroke="#1F1F1F" stroke-width="1" stroke-dasharray="4 4"/>
+  
+  <!-- Micro Labels -->
+  <text x="110" y="120" fill="#A6A640" font-family="monospace" font-size="13" letter-spacing="3">CASE STUDY // 001</text>
+  <text x="110" y="145" fill="#737373" font-family="monospace" font-size="12" letter-spacing="1">CLIENT: FROZELL CAFÉ</text>
+  <text x="1090" y="120" fill="#A3FF0A" font-family="monospace" font-size="13" letter-spacing="2" text-anchor="end">STATUS: SHIPPED</text>
+  <text x="1090" y="145" fill="#737373" font-family="monospace" font-size="12" letter-spacing="1" text-anchor="end">DISCIPLINE: BRAND + WEB</text>
+
+  <!-- Big Hero Typography in mockup -->
+  <text x="110" y="270" fill="#F5F5F0" font-family="sans-serif" font-weight="900" font-size="78" letter-spacing="-3">FROZELL</text>
+  <text x="110" y="340" fill="#A3FF0A" font-family="sans-serif" font-weight="900" font-size="78" letter-spacing="-3">SPECIALTY</text>
+  <text x="110" y="410" fill="#F5F5F0" font-family="sans-serif" font-weight="900" font-size="78" letter-spacing="-3">EXPERIENCE.</text>
+
+  <!-- Visual Card Element Left -->
+  <rect x="110" y="460" width="420" height="200" fill="#141414" stroke="#2A2A2A"/>
+  <text x="140" y="505" fill="#F5F5F0" font-family="sans-serif" font-weight="700" font-size="20">DIGITAL MENU &amp; BRANDING</text>
+  <text x="140" y="540" fill="#888888" font-family="sans-serif" font-size="14">Single-origin espresso profiles, tactile web</text>
+  <text x="140" y="565" fill="#888888" font-family="sans-serif" font-size="14">ordering, and social-first creative collateral.</text>
+  <rect x="140" y="600" width="120" height="32" fill="#A3FF0A"/>
+  <text x="200" y="621" fill="#0B0B0B" font-family="sans-serif" font-weight="900" font-size="12" text-anchor="middle" letter-spacing="1">EXPLORE</text>
+
+  <!-- Right Composition / Visual Mockup Area -->
+  <g transform="translate(640, 180)">
+    <!-- Browser window mockup -->
+    <rect width="440" height="500" fill="#181818" stroke="#333333" stroke-width="1"/>
+    <!-- Top bar -->
+    <rect width="440" height="36" fill="#222222"/>
+    <circle cx="20" cy="18" r="5" fill="#444"/>
+    <circle cx="36" cy="18" r="5" fill="#444"/>
+    <circle cx="52" cy="18" r="5" fill="#444"/>
+    <rect x="80" y="9" width="280" height="18" fill="#141414" rx="2"/>
+    <text x="220" y="22" fill="#666" font-family="monospace" font-size="10" text-anchor="middle">frozellcafe.com</text>
+
+    <!-- Inner content -->
+    <rect x="30" y="65" width="380" height="180" fill="#0A0A0A" stroke="#262626"/>
+    <text x="50" y="125" fill="#F5F5F0" font-family="sans-serif" font-weight="900" font-size="32">SLOW CRAFT.</text>
+    <text x="50" y="160" fill="#A3FF0A" font-family="sans-serif" font-weight="800" font-size="28">POUR OVER LAB.</text>
+    
+    <!-- Mini cards inside browser -->
+    <rect x="30" y="265" width="180" height="190" fill="#121212" stroke="#222"/>
+    <text x="45" y="300" fill="#FFF" font-family="sans-serif" font-weight="700" font-size="14">ETHIOPIA GUJI</text>
+    <text x="45" y="325" fill="#888" font-family="monospace" font-size="11">NOTES: BERGAMOT, HONEY</text>
+    <path d="M45 350 L195 350" stroke="#333" stroke-width="1"/>
+    <text x="45" y="380" fill="#A3FF0A" font-family="monospace" font-size="16" font-weight="bold">$6.50</text>
+
+    <rect x="230" y="265" width="180" height="190" fill="#121212" stroke="#222"/>
+    <text x="245" y="300" fill="#FFF" font-family="sans-serif" font-weight="700" font-size="14">COLOMBIA PINK</text>
+    <text x="245" y="325" fill="#888" font-family="monospace" font-size="11">NOTES: WATERMELON, JASMINE</text>
+    <path d="M245 350 L395 350" stroke="#333" stroke-width="1"/>
+    <text x="245" y="380" fill="#A3FF0A" font-family="monospace" font-size="16" font-weight="bold">$7.00</text>
+  </g>
+</svg>
